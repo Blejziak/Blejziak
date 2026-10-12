@@ -1,14 +1,14 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Blejziak">
+    <img alt="Kacper (Blejziak) — boty Discord, strony www, automatyzacje" width="880" src="assets/promo/banner.gif" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kacper&fontSize=48&fontAlignY=32&desc=Bot%20Developer%20%C2%B7%20Web%20Developer%20%C2%B7%20Java%20%C2%B7%20Node.js%20%C2%B7%20Python&descSize=18&descAlignY=55&animation=fadeIn" alt="Baner" width="100%" />
-
-<a href="https://github.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=8B7CFF&center=true&vCenter=true&width=520&lines=Bot+Developer+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Java+%2F+Node.js+%2F+Python+%E2%98%95;Automatyzacja+jest+pierwsza+%E2%9A%A1" alt="Typing SVG" />
-</a>
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/images/gifs/wave.gif" alt="Cześć" width="40" align="right" />
-
-</div>
+<p align="center">
+  <a href="https://discord.com/users/TWOJE_ID"><img alt="Discord" src="https://img.shields.io/badge/Discord-0d0e12?style=flat-square&logo=discord&logoColor=8b95f0" /></a>
+  <a href="https://github.com/Blejziak"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=8b95f0" /></a>
+  <a href="mailto:kacper@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=8b95f0" /></a>
+</p>
 
 ## 👤 O mnie
 

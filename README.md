@@ -2,7 +2,7 @@
 
 <img src="assets/promo/banner.gif" alt="Kacper — boty Discord, strony www, automatyzacje" width="880" />
 
-<kbd><a href="https://github.com/Blejziak">GitHub</a></kbd> · <kbd><a href="https://discord.com/users/TWOJE_ID">Discord</a></kbd> · <kbd><a href="mailto:kacper@example.com">E-mail</a></kbd>
+<kbd><a href="https://github.com/Blejziak">GitHub</a></kbd> · <kbd><a href="https://discord.com/users/1439297105649995806">Discord</a></kbd> · <kbd><a href="mailto:Noqira@proton.me">E-mail</a></kbd>
 
 </div>
 

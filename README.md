@@ -8,9 +8,9 @@
 
 Cześć, tu **Kacper** 👋
 
-Robię boty do Discorda, klepię strony i ogarniam automatyzacje. Używam Javy, Node.js i Pythona — zależnie od tego, co ma być zrobione.
+Developer. Boty do Discorda, strony internetowe i automatyzacje. Używam Javy, Node.js i Pythona.
 
-A jak nie kodzę, to łap mnie na Discordzie albo napisz maila.
+Kontakt: Discord albo mail — linki wyżej.
 
 **Stack:** `Java` `JavaScript/TypeScript` `Python` `Node.js` `React` `Tailwind`
 

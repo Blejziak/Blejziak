@@ -12,7 +12,9 @@ Developer. Boty do Discorda, strony internetowe i automatyzacje. Używam Javy, N
 
 Kontakt: Discord albo mail — linki wyżej.
 
-**Stack:** `Java` `JavaScript/TypeScript` `Python` `Node.js` `React` `Tailwind`
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,react,tailwind,git,github,figma&theme=dark" alt="Stack" />
+</a>
 
 <div align="center">
 

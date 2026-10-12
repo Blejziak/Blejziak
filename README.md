@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff5c8a,50:e6398f,100:8b5cf6&height=180&section=header&text=Kacper&fontSize=52&fontAlignY=34&desc=boty%20Discord%20%C2%B7%20strony%20www%20%C2%B7%20Java%20%C2%B7%20Node.js%20%C2%B7%20Python&descSize=17&descAlignY=56" alt="Kacper" width="100%" />
+<img src="assets/promo/banner.gif" alt="Kacper — boty Discord, strony www, automatyzacje" width="880" />
 
 <kbd><a href="https://github.com/Blejziak">GitHub</a></kbd> · <kbd><a href="https://discord.com/users/TWOJE_ID">Discord</a></kbd> · <kbd><a href="mailto:kacper@example.com">E-mail</a></kbd>
 
 </div>
 
-Jestem **Kacper**. Piszę boty do Discorda i strony internetowe. Głównie Java i Node.js, po drodze Python. Zaczynam od designu w Figmie, kończę na kodzie, który po prostu działa.
+Cześć, tu **Kacper** 👋
 
-**Stack:** `Java` `JavaScript/TypeScript` `Python` `Node.js` `React` `Tailwind` `Figma` `SQLite`
+Robię boty do Discorda, klepię strony i ogarniam automatyzacje. Używam Javy, Node.js i Pythona — zależnie od tego, co ma być zrobione.
+
+A jak nie kodzę, to łap mnie na Discordzie albo napisz maila.
+
+**Stack:** `Java` `JavaScript/TypeScript` `Python` `Node.js` `React` `Tailwind`
 
 <div align="center">
 
@@ -23,6 +27,10 @@ Jestem **Kacper**. Piszę boty do Discorda i strony internetowe. Głównie Java 
     (ID: Discord → Ustawienia → Zaawansowane → Tryb programisty → Kopiuj ID użytkownika)
   - kacper@example.com → Twój e-mail (albo usuń fragment <kbd>...</kbd> z E-mail)
 
-  Wszystko inne (baner, statystyki, streak) ładuje się z internetu — żadnych
-  plików do repo nie trzeba wrzucać. Baner zadziała od razu po wklejeniu.
+  Wszystko inne (statystyki, streak) ładuje się z internetu.
+  ⚠️ BANER (assets/promo/banner.gif) MUSI być wrzucony do repo razem z README,
+  inaczej się nie pokaże! (Add file → Upload files → cały folder assets)
+
+  Chcesz zmienić teksty w banerze? Edytuj gen_banner.py (linie L1/L2/L3 na końcu)
+  i uruchom: python gen_banner.py
 -->

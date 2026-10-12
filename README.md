@@ -4,19 +4,14 @@
 
 <kbd><a href="https://github.com/Blejziak">GitHub</a></kbd> · <kbd><a href="https://discord.com/users/645736385843822624">Discord</a></kbd> · <kbd><a href="mailto:Noqira@proton.me">E-mail</a></kbd>
 
-</div>
+### Cześć, tu **Kacper** 👋
 
-Cześć, tu **Kacper** 👋
-
-Developer. Boty do Discorda, strony internetowe i automatyzacje. Używam Javy, Node.js i Pythona.
-
-Kontakt: Discord albo mail — linki wyżej.
+Developer. Boty do Discorda, strony internetowe i automatyzacje.<br/>
+Używam Javy, Node.js i Pythona.
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,react,tailwind,git,github,figma&theme=dark" alt="Stack" />
 </a>
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Blejziak&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff5c8a&icon_color=ff5c8a&text_color=cdd6f4" alt="Statystyki" height="150" />
 <img src="https://streak-stats.demolab.com?user=Blejziak&hide_border=true&background=00000000&ring=ff5c8a&fire=ff8fab&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=ff5c8a&sideLabels=8B949E&dates=8B949E" alt="Streak" height="150" />
@@ -24,12 +19,6 @@ Kontakt: Discord albo mail — linki wyżej.
 </div>
 
 <!--
-  DO PODMIENIENIA (tylko 2 rzeczy):
-  - https://discord.com/users/TWOJE_ID → Twój profil na Discordzie
-    (ID: Discord → Ustawienia → Zaawansowane → Tryb programisty → Kopiuj ID użytkownika)
-  - kacper@example.com → Twój e-mail (albo usuń fragment <kbd>...</kbd> z E-mail)
-
-  Wszystko inne (statystyki, streak) ładuje się z internetu.
   ⚠️ BANER (assets/promo/banner.gif) MUSI być wrzucony do repo razem z README,
   inaczej się nie pokaże! (Add file → Upload files → cały folder assets)
 
